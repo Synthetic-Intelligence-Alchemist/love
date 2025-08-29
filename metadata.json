@@ -1,0 +1,8 @@
+{
+  "name": "Love Language Translator",
+  "description": "A real-time, bidirectional conversation translator between English and Spanish, designed for seamless and natural communication. Speak or type in one language and hear the translation in the other, with optional video context.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
